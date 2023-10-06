@@ -1,20 +1,17 @@
-# logo_maker
+## In this application, I created a basic logo generator. The user is prompted to enter three letters. Then they are asked what color they'd like the letters to be, what color they'd like their background shape to be, and whether they'd like their shape to be a circle. square, or triangle. The application then generates a .svg file with the logo they've chosen.
 
-AS a freelance web developer
-I WANT to generate a simple logo for my projects
-SO THAT I don't have to pay a graphic designer
+## Installation
 
-GIVEN a command-line application that accepts user input
-WHEN I am prompted for text
-THEN I can enter up to three characters
-WHEN I am prompted for the text color
-THEN I can enter a color keyword (OR a hexadecimal number)
-WHEN I am prompted for a shape
-THEN I am presented with a list of shapes to choose from: circle, triangle, and square
-WHEN I am prompted for the shape's color
-THEN I can enter a color keyword (OR a hexadecimal number)
-WHEN I have entered input for all the prompts
-THEN an SVG file is created named `logo.svg`
-AND the output text "Generated logo.svg" is printed in the command line
-WHEN I open the `logo.svg` file in a browser
-THEN I am shown a 300x200 pixel image that matches the criteria I entered
+N/A
+
+## Usage
+
+The user creates a basic logo through answering the prompts from this application.
+
+## Credits
+
+I receieved guidance on this application from my instructor, JD Tadlock in class. I also referred to ChatGPT to help me figure out where my syntax was incorrect.
+
+## License
+
+Please refer to the LICENSE in the repo.
