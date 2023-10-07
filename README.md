@@ -1,5 +1,9 @@
 ## In this application, I created a basic logo generator. The user is prompted to enter three letters. Then they are asked what color they'd like the letters to be, what color they'd like their background shape to be, and whether they'd like their shape to be a circle. square, or triangle. The application then generates a .svg file with the logo they've chosen.
 
+![Screenshot](./assets/logo-maker-circle.png)
+![Screenshot](./assets/logo-maker-square.png)
+![Screenshot](./assets/logo-maker-triangle.png)
+
 ## Installation
 
 N/A
